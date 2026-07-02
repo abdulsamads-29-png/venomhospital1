@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="520" viewBox="0 0 900 520">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1" y1="0" y2="1">
+      <stop stop-color="#d64545" offset="0"/>
+      <stop stop-color="#f08a6c" offset="1"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="520" fill="url(#g)"/>
+  <circle cx="740" cy="120" r="75" fill="rgba(255,255,255,0.12)"/>
+  <path d="M0 400 C160 330 280 430 460 360 C620 300 720 410 900 350 L900 520 L0 520 Z" fill="rgba(255,255,255,0.10)"/>
+  <!-- ambulance body icon -->
+  <rect x="280" y="240" width="280" height="110" rx="16" fill="rgba(255,255,255,0.92)"/>
+  <rect x="560" y="270" width="80" height="80" rx="10" fill="rgba(255,255,255,0.92)"/>
+  <circle cx="350" cy="370" r="26" fill="rgba(255,255,255,0.85)"/>
+  <circle cx="560" cy="370" r="26" fill="rgba(255,255,255,0.85)"/>
+  <rect x="400" y="265" width="14" height="55" fill="#d64545"/>
+  <rect x="378" y="285" width="58" height="14" fill="#d64545"/>
+</svg>
