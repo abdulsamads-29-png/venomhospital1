@@ -1,0 +1,26 @@
+# Venom Multispecialty Hospital
+
+> Venom Multispecialty Hospital is a patient-first, affordable multispecialty hospital in Pune, Maharashtra, India, offering 12+ departments, 40+ doctors and 24x7 emergency and ambulance care.
+
+Venom Multispecialty Hospital provides outpatient consultations, inpatient care, diagnostics and 24x7 emergency services across Cardiology, Orthopedics, Pediatrics, Neurology, Gynecology, ENT, Dermatology and General Medicine. OPD hours are Monday–Saturday, 9:00 AM–8:00 PM; the emergency department and ambulance service operate every day, all day.
+
+## Key Pages
+
+- [Home](https://venomhospital.netlify.app/): Overview of the hospital, highlights and emergency care information.
+- [About](https://venomhospital.netlify.app/about.html): Hospital story, mission, values and frequently asked questions.
+- [Departments](https://venomhospital.netlify.app/departments.html): List of medical departments and services offered.
+- [Doctors](https://venomhospital.netlify.app/doctors.html): Doctor profiles, specializations and consultation fees.
+- [Gallery](https://venomhospital.netlify.app/gallery.html): Photos of hospital facilities, equipment and emergency services.
+- [Appointment](https://venomhospital.netlify.app/appointment.html): Online appointment booking form.
+- [Contact](https://venomhospital.netlify.app/contact.html): Address, phone numbers, email and visiting hours.
+
+## Contact
+
+- Address: MG Road, Pune, Maharashtra - 411001, India
+- Phone: +91-9876543210
+- Emergency Helpline: +91-9876500000
+- Email: info@venomhospital.com
+
+## Notes
+
+This site is a static, informational hospital website. All doctor names, fees and some contact details are placeholders for a student/demo project and should be verified directly with the hospital before being treated as authoritative.
