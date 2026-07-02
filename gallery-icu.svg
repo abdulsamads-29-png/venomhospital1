@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="520" viewBox="0 0 900 520">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1" y1="0" y2="1">
+      <stop stop-color="#19443d" offset="0"/>
+      <stop stop-color="#0b6e63" offset="1"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="520" fill="url(#g)"/>
+  <circle cx="150" cy="120" r="70" fill="rgba(255,255,255,0.10)"/>
+  <path d="M0 400 C160 460 300 360 480 410 C640 450 760 360 900 400 L900 520 L0 520 Z" fill="rgba(255,255,255,0.08)"/>
+  <!-- monitor with pulse line -->
+  <rect x="330" y="190" width="240" height="160" rx="14" fill="rgba(255,255,255,0.92)"/>
+  <polyline points="350,280 400,280 420,240 450,320 480,210 510,280 550,280"
+            fill="none" stroke="#0b6e63" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="420" y="350" width="60" height="16" rx="4" fill="rgba(255,255,255,0.7)"/>
+</svg>

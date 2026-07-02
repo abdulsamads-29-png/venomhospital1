@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="520" viewBox="0 0 900 520">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1" y1="0" y2="1">
+      <stop stop-color="#0b6e63" offset="0"/>
+      <stop stop-color="#3fb6a4" offset="1"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="520" fill="url(#g)"/>
+  <circle cx="730" cy="110" r="80" fill="rgba(255,255,255,0.12)"/>
+  <path d="M0 400 C160 330 280 430 460 360 C620 300 720 410 900 350 L900 520 L0 520 Z" fill="rgba(255,255,255,0.10)"/>
+  <!-- reception desk icon -->
+  <rect x="330" y="250" width="240" height="90" rx="10" fill="rgba(255,255,255,0.9)"/>
+  <rect x="350" y="200" width="200" height="60" rx="8" fill="rgba(255,255,255,0.65)"/>
+  <circle cx="450" cy="180" r="22" fill="rgba(255,255,255,0.9)"/>
+</svg>
